@@ -1,0 +1,6 @@
+1. Created Frontend EC2
+2. Created Backend EC2
+3. Setup Apache
+4. Created RDS database
+5. Connected backend to database
+6. Created Load Balancer
