@@ -1,7 +1,4 @@
-# aws-multitier-app-3
-# Multi-tier Web Application
-
-# Multi-tier Web App Deployment
+# Multi-tier Web App Deployment-3
 
 ## 📌 Project Overview
 
